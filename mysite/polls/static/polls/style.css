@@ -1,0 +1,11 @@
+
+.text{
+  color:white;
+}
+
+
+body{
+  background: url("images/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
